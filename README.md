@@ -1,5 +1,5 @@
 
-![logo]()
+![logo](https://github.com/amirsohail22/amirsohail22/blob/main/amm.jpeg)
 <h1 align="center">Hi 👋 Coder, I'm Amir Sohail</h1>
 <h3 align="center">A fresher frontend developer from India</h3>
 
